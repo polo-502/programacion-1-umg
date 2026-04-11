@@ -4,7 +4,7 @@
 #include "Config.h"
 
 using namespace std;
-//para 31 de marzo o 2 de abril
+
 int main()
 {
     const int FILASTABLERO = 5;
